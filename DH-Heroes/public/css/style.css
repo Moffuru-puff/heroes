@@ -1,0 +1,19 @@
+body {
+    background-image: url(http://pa1.narvii.com/6238/c8977f5933f6c9e422b7cdeb9f71b6eef441f708_00.gif);
+}
+
+a {
+    background-color: rgb(17, 0, 255);
+    display: inline;
+    color: rgb(0, 255, 255);
+}
+
+h1 {
+    background-color: transparent ;
+    color: rgb(255, 115, 0);
+}
+
+h2 {
+    background-color: transparent ;
+    color: rgb(255, 84, 4);
+}
